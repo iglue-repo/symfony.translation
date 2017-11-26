@@ -1,5 +1,8 @@
 {
-    "name": "symfony/translation",
+    "name": "symfony@iglue/translation",
+    "replace": {
+        "symfony/translation": "v3.2.13"
+    },
     "type": "library",
     "description": "Symfony Translation Component",
     "keywords": [],
